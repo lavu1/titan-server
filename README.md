@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titan Voltage - Backend Server
 
 <p align="center">
@@ -58,3 +59,6 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
+=======
+# titan-server
+>>>>>>> daeb386887a1627911413a25da46fab9d7166111
